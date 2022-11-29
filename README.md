@@ -1,5 +1,5 @@
 
-<h1>Hi there, i'm frontEnd dev / Olá pessoal, sou um desenvolvedor Front-End em formação🤚🏻</h1>
+<h1>Hi there, i'm Front-End dev / Olá pessoal, sou um desenvolvedor Front-End em formação🤚🏻</h1>
 <br>
 
 💻 I'm currently learning JavaScript / Atualmente estou estudando JavaScript
