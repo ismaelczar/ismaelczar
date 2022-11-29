@@ -1,6 +1,5 @@
-# 💫 About Me:
-Atualmente tenho interesse em me desenvolver profissionalmente nas áreas de Desenvolvimento Web com foco em Front-End. 
-Com pouca experiência profissional nessa área, me desenvolvo através de cursos de capacitação e práticas com fins pessoais.<br><br>
+
+<h1>Hi there, i'm frontEnd dev / Olá pessoal, sou um desenvolvedor Front-End em formação🤚🏻</h1>
 
 
 ## 🌐 Socials:
