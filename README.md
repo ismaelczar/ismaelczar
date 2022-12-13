@@ -40,10 +40,5 @@
 </div>
 
 <br> 
-
 <div align="center">
-<p><b>Visitor Count</b></p>
-<p><img src="https://profile-counter.glitch.me/{wagnerskull}/count.svg" /></p>  
-</div>  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B689&height=120&section=footer" />
