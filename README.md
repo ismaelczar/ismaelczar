@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B689&height=160&section=header&text=Wagner%20Skull&fontSize=30&fontColor=111821&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B689&height=160&section=header&text=Ismael%20Cézar&fontSize=30&fontColor=111821&animation=twinkling&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=1000&color=54B689&background=11111100&center=true&vCenter=true&width=1000&lines=Hi%2C+how+are+you%3F;I+hope+you+are+well.;My+name+is+Ismael+Cézar.;Nice+to+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
 
@@ -34,8 +34,6 @@
 <a href="https://www.instagram.com/_ismaelcezar/">
 <img alt="instagram-icon" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-&nbsp
-&nbsp   
 <a href="https://www.linkedin.com/in/wagner-lemes/">
 <img alt="linkedin-icon" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
