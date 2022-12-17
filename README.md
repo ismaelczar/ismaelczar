@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B689&height=160&section=header&text=Ismael%20Cézar&fontSize=30&fontColor=111821&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E6BE3&height=160&section=header&text=Ismael%20Cézar&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=1000&color=54B689&background=11111100&center=true&vCenter=true&width=1000&lines=Hi%2C+how+are+you%3F;I+hope+you+are+well.;My+name+is+Ismael+Cezar.;Nice+to+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=1000&color=fff&background=11111100&center=true&vCenter=true&width=1000&lines=Hi%2C+how+are+you%3F;I+hope+you+are+well.;My+name+is+Ismael+Cezar.;Nice+to+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ismaelczar&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="Skull-github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ismaelczar&title_color=fff&border_color=fff&text_color=111821&bg_color=0E6BE3" alt="Skull-github-stats" /></a>
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="top-langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&title_color=fff&border_color=fff&text_color=fff&bg_color=111821" alt="top-langs" /></a>
 </div>
 
 <br>
@@ -31,14 +31,11 @@
 
 <div align="center">
 <h2>:handshake: Connect with me:</h2>
-<a href="https://www.instagram.com/_ismaelcezar/">
-<img alt="instagram-icon" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ismaelcezar/">
-<img alt="linkedin-icon" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/ismaelcezar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ismaelcezar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismaelcezar" height="30" width="40" /></a>
+
 </div>
 
 <br> 
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B689&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E6BE3&height=120&section=footer" />
