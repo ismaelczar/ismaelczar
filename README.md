@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Meu propósito é seguir, e aprofundar meus conhecimentos na área de Desenvolvimento Front-end.<br><br><br>🌱 Estudando neste momento: JavaScript<br>
+🔭 Desenvolvedor Web em ascensão, possuo habilidades sólidas em HTML e CSS, e atualmente estou aprendendo JavaScript para aprimorar minhas habilidades e expandir meus conhecimentos. Sou um apaixonado por tecnologia e busco sempre me aprimorar para desenvolver soluções criativas e funcionais que agreguem valor aos projetos.  Utilizo ferramentas como o Git e o GitHub para versionar e gerenciar o código dos meus projetos. Com apenas 24 anos, estou em constante aprimoramento para me tornar um profissional completo e contribuir para o sucesso de empresas e projetos desafiadores. 
+
+Busco atuar em um ambiente de trabalho dinâmico e colaborativo, onde possa aplicar meus conhecimentos e habilidades em benefício da equipe e dos projetos em que estiver envolvido..<br><br><br>🌱 Estudando neste momento: JavaScript<br>
 
 
 ## 🌐 Socials:
