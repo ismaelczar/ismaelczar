@@ -11,7 +11,6 @@ Hello, my name is Ismael Cézar. I am an up-and-coming web developer with knowle
 ![](https://github-readme-stats.vercel.app/api?username=ismaelczar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ismaelczar&icon=0&color=0)](https://visitcount.itsvg.in)
+## Portifólio
+[![Portfolio](https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=polkadot&logoColor=00e5ff)](https://portifolio-4tgwxbp92-ismaelczar.vercel.app/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
