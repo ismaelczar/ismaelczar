@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, my name is Ismael Cézar. I am an up-and-coming web developer with knowledge in HTML, CSS, and pure JavaScript, along with skills in React and TypeScript. I am enhancing my abilities to achieve my goal of becoming a junior developer.<br><br>My journey in web development started with curiosity to explore the programming world. My desire to learn and constantly grow drives me to seek new learning opportunities and challenge myself with demanding projects..
+# Ismael Cézar
+My journey in web development started with curiosity to explore the programming world. My desire to learn and constantly grow drives me to seek new learning opportunities and challenge myself with demanding projects..
 
 
 # 💻 Tech Stack:
