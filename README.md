@@ -3,11 +3,6 @@ My journey in web development started with curiosity to explore the programming 
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelczar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-<div align="center">
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
