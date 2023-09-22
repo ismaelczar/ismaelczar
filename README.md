@@ -1,8 +1,9 @@
 # Ismael Cézar
-My journey in web development started with curiosity to explore the programming world. My desire to learn and constantly grow drives me to seek new learning opportunities and challenge myself with demanding projects..
-
-
 <div align="center">
+Olá! Sou o Ismael Cézar, um entusiasta da programação de 24 anos que iniciou sua jornada em janeiro de 2022. Estou empenhado em aprender e me aprimorar para me tornar um desenvolvedor. 
+Apesar de ainda não trabalhar na área, os desafios da programação me trazem satisfação quando superados.
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
