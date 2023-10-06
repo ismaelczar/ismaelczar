@@ -1,6 +1,6 @@
 # Ismael Cézar
 <div align="center">
-Olá! Sou o Ismael Cézar, um entusiasta da programação de 24 anos que iniciou sua jornada em janeiro de 2022. Estou empenhado em aprender e me aprimorar para me tornar um desenvolvedor. 
+Olá! Sou o Ismael Cézar, um entusiasta da programação de 24 anos que iniciou sua jornada em janeiro de 2023. Estou empenhado em aprender e me aprimorar para me tornar um desenvolvedor. 
 Apesar de ainda não trabalhar na área, os desafios da programação me trazem satisfação quando superados.
 
 
