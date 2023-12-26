@@ -1,9 +1,8 @@
 # Ismael Cézar
 <div align="center">
-Olá! Sou o Ismael Cézar, um entusiasta da programação de 24 anos que iniciou sua jornada em janeiro de 2023. Estou empenhado em aprender e me aprimorar para me tornar um desenvolvedor. 
-Apesar de ainda não trabalhar na área, os desafios da programação me trazem satisfação quando superados.
-
-
+Olá! Sou o Cézar, sou um estudante de desenvolvimento WEB com foco em Front-End de 24 anos que iniciou sua jornada em janeiro de 2023.
+Me encontro empenhado em aprender e me aprimorar para alcançar a carreira profissional como desenvolvedor. 
+Considero que em minha rotina os desafios da programação me trazem satisfação quando superados.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
