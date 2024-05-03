@@ -1,6 +1,6 @@
 ### Contente por te ver aqui!
 
-Olá, meu nome e Cézar.
+Olá, meu nome é Cézar.
 
 Sou um estudante de desenvolvimento web que iniciou sua jornada em janeiro de 2023.
 Atualmente, estudo e me dedico ao aprendizado em desenvolvimento de sistemas Web. 
