@@ -1,20 +1,23 @@
-# Ismael Cézar
-<div align="center">
-Olá! Sou o Cézar, um estudante de desenvolvimento WEB com foco em Front-End de 24 anos que iniciou sua jornada em janeiro de 2023.
-Me encontro empenhado em aprender e me aprimorar para alcançar a carreira profissional como desenvolvedor. 
-Considero que em minha rotina os desafios da programação me trazem satisfação quando superados.
+### Contente por te ver aqui!
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<br />
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+Olá, meu nome e Cézar.
+
+Sou um estudante de desenvolvimento web que iniciou sua jornada em janeiro de 2023.
+Atualmente, estudo e me dedico ao aprendizado em desenvolvimento de sistemas Web. 
+
+Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou quiser se conectar. 
+Obrigado!
+
+##
+### Falando sobre coisas pessoais:
+- 🚀 &nbsp; Atualmente estou aprendendo Prisma e Node.
+- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/ismaelczar).
+- 📫 &nbsp; Como entrar em contato comigo: ismaelcz4r@outlook.com.
+
+##
+
+<div align="center">
+
+### Mostre alguns ❤️ estrelando alguns dos repositórios!
 
 </div>
-
-
-## Portifólio
-[![Portfolio](https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=polkadot&logoColor=00e5ff)](https://portifolio-4tgwxbp92-ismaelczar.vercel.app/)
-
