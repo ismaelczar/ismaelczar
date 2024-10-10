@@ -12,7 +12,7 @@ Obrigado!
 ### Falando sobre coisas pessoais:
 - 🚀 &nbsp; Atualmente estou aprendendo NodeJs.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/ismaelczar).
-- 📫 &nbsp; Como entrar em contato comigo: ismaelcz4r@outlook.com.
+- 📫 &nbsp; Como entrar em contato comigo: ucez4r@gmail.com.
 
 ##
 
