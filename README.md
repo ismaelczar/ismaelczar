@@ -10,7 +10,7 @@ I started my coding journey in January 2023 and have been constantly learning an
 Check out my projects: [Github](https://github.com/ismaelczar)
 
 ##
-### Want to get in touch?:
+### Want to get in touch?
 - 🚀 &nbsp; Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismaelcezar/)
 - 📫 &nbsp; Email: ucez4r@gmail.com
 
