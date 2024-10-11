@@ -11,7 +11,7 @@ Check out my projects: [Github](https://github.com/ismaelczar)
 
 ##
 ### Want to get in touch?:
-- 🚀 &nbsp; Let's connect on LinkedIn: https://www.linkedin.com/in/ismaelcezar/.
+- 🚀 &nbsp; Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismaelcezar/).
 - 📫 &nbsp; Email: ucez4r@gmail.com
 
 ##
