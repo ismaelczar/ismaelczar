@@ -1,23 +1,22 @@
-### Contente por te ver aqui!
+### Hi there!
+I'm Cézar, a web developer passionate about building innovative web applications. 
+I started my coding journey in January 2023 and have been constantly learning and experimenting ever since.
 
-Olá, meu nome é Cézar.
+### What I'm working on:
+- Currently focused on mastering Node.js for backend development.
+- Exploring various frontend frameworks and libraries.
+- Building full-stack applications.
 
-Sou um estudante que iniciou sua jornada em janeiro de 2023.
-Atualmente, estudo e me dedico ao aprendizado em desenvolvimento de sistemas Web. 
-
-Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou quiser se conectar. 
-Obrigado!
+Check out my projects: [Github](https://github.com/ismaelczar)
 
 ##
-### Falando sobre coisas pessoais:
-- 🚀 &nbsp; Atualmente estou aprendendo NodeJs.
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/ismaelczar).
-- 📫 &nbsp; Como entrar em contato comigo: ucez4r@gmail.com.
+### Want to get in touch?:
+- 🚀 &nbsp; Let's connect on LinkedIn: https://www.linkedin.com/in/ismaelcezar/.
+- 📫 &nbsp; Email: ucez4r@gmail.com
 
 ##
 
 <div align="center">
 
-### Mostre alguns ❤️ estrelando alguns dos repositórios!
-
+### Feel free to contribute to my projects or simply star them to show your support!
 </div>
