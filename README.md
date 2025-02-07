@@ -2,7 +2,7 @@
 
 Olá, meu nome é Cézar.
 
-Atualmente, estudo e me dedico ao aprendizado em desenvolvimento de sistemas Web. 
+Atualmente, estudo e me dedico ao aprendizado em desenvolvimento de sistemas Web. <br />
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou quiser se conectar. 
 Obrigado!
 
