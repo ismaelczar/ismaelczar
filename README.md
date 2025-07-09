@@ -1,47 +1,59 @@
+## 👨🏻‍💻 Ismael Cezar
 
+Atualmente estou focado no desenvolvimento **backend com Node.js**, mas também tenho experiência no **frontend com React**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou sempre explorando novas ferramentas, boas práticas e padrões de arquitetura.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ismaelczar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ismaelczar&theme=dark&hide_border=true" /><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
+---
 
+## 💡 Tecnologias que uso no dia a dia
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+---
 
+## 📚 Atualmente estudando
 
-
-###
-
-<div align="start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-</div>
-
-###
-
-
-  <a href="https://www.linkedin.com/in/ismaelcezar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  
-  <a href="mailto:ucez4r@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
+- 🧪 Testes automatizados com Jest e Supertest  
+- 🐳 Docker e práticas DevOps para projetos em Node  
+- 🧰 Documentação de APIs com Swagger e Zod  
+- 📨 Mensageria com RabbitMQ  
+- 🧱 ORM moderno com Drizzle  
+- ⚙️ Injeção de dependência com tsyringe  
+- 🔒 Segurança de aplicações com JWT e criptografia
 
 
 
+---
 
-### Mostre alguns ❤️ estrelando alguns dos repositórios!
+## 📊 Estatísticas
+
+<a href="https://github.com/ismaelczar">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ismaelczar&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ismaelczar">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&theme=dracula&hide_border=true&layout=compact" />
+</a>
+<a href="https://github.com/ismaelczar">
+  <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=ismaelczar&theme=dracula&hide_border=true" />
+</a>
+
+---
+
+## 📲 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Ismael%20Cezar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelcezar/)](https://www.linkedin.com/in/ismaelcezar/)
+[![Gmail](https://img.shields.io/badge/-ucez4r@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ucez4r@gmail.com)](mailto:ucez4r@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/ismaelczar?label=follow&style=social)](https://github.com/ismaelczar)
+
+---
+
+## ⭐ Curtiu algum projeto?
+
+Mostre seu apoio deixando uma estrela ⭐ em algum dos meus repositórios. 
 
