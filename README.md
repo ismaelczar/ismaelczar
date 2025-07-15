@@ -34,9 +34,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou sempre explo
 ## 📊 Estatísticas
 
 <a href="https://github.com/ismaelczar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ismaelczar&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/ismaelczar">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelczar&theme=dracula&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/ismaelczar">
