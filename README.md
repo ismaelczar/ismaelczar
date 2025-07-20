@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Ismael Cezar
+## 👨🏻‍💻 Ismael Cézar
 
 Atualmente estou focado no desenvolvimento **backend com Node.js**, mas também tenho experiência no **frontend com React**.
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou sempre explorando novas ferramentas, boas práticas e padrões de arquitetura.
