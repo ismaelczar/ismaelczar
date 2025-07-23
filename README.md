@@ -15,19 +15,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou sempre explo
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
----
-
-## 📚 Atualmente estudando
-
-- 🧪 Testes automatizados com Jest e Supertest  
-- 🐳 Docker e práticas DevOps para projetos em Node  
-- 🧰 Documentação de APIs com Swagger e Zod  
-- 📨 Mensageria com RabbitMQ  
-- 🧱 ORM moderno com Drizzle  
-- ⚙️ Injeção de dependência com tsyringe  
-- 🔒 Segurança de aplicações com JWT e criptografia
-
-
 
 ---
 
